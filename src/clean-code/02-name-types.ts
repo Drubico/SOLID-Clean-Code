@@ -28,7 +28,7 @@
 
     // Otros ejercicios
     // tiempo inicial
-    const  = new Date().getTime();
+    const start = new Date().getTime();
     const startTime = new Date().getTime();
     //....
     // 3 doritos después
